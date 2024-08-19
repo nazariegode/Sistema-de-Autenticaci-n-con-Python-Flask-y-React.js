@@ -1,0 +1,52 @@
+.info-basic {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.info-basic h3 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.info-field {
+    margin-bottom: 20px;
+}
+
+.info-field label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 8px;
+}
+
+.info-field input {
+    width: 100%;
+    font-size: 1rem;
+    padding: 8px;
+    box-sizing: border-box;
+    border: none; 
+    border-bottom: 1px solid #ccc; 
+    outline: none; 
+}
+
+.info-field input:focus {
+    border-bottom: 1px solid #000; 
+}
+
+.save-button {
+    background-color: rgb(253, 141, 20);
+    color: black;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
+
+.save-button:hover {
+    background-color: black;
+    color: white;
+}

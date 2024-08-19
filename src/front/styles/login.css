@@ -1,0 +1,41 @@
+body {
+    /*     background-color: #fd8d14; 
+ */
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container-fluid {
+    padding-left: 100px;
+}
+
+/* .form-login {
+    margin-top: 80px;
+    margin-bottom: 80px;
+} */
+
+.text {
+    text-decoration: none;
+    color: rgb(140, 139, 139);
+    font-size: 13px;
+
+}
+
+.text:hover {
+    text-decoration: none;
+    color: #fd8d14;
+}
+
+.form-text {
+    color: rgb(192, 192, 192);
+}
+
+h3 {
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fd8d14;
+}
